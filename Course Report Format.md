@@ -23,5 +23,4 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: []     | []                         |
 | Final Project: [Facial Expression Recognition and Emoji Recommendation]     | [https://github.com/sure-trust/KATIKA-VEERA-VENKATA-ABHINAV-g1-fsds/tree/main/Final%20capstone%20project]                         |
